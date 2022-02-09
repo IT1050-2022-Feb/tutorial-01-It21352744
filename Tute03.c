@@ -14,6 +14,23 @@ sum = 1+2+3+...+10 = 55 */
 #include <stdio.h>
 int main() {
   
+int n,i;
+float sum;
+
+  printf("ENTER THE LAST COUNNT");
+  scanf("%f",&n);
+
+  if (n=n)
+  {
+    i=i+i;
+    printf("sum = %f");
+  }else 
+  {
+     printf("ENTER A NUMBER");
+  scanf("%d",&i);
+
+  }
+
   return 0;
 }
 
